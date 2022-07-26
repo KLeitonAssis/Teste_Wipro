@@ -1,0 +1,58 @@
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.exe
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.deps.json
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.runtimeconfig.json
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.runtimeconfig.dev.json
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\ref\wiproTeste.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\wiproTeste.pdb
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.csproj.AssemblyReference.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.AssemblyInfoInputs.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.AssemblyInfo.cs
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\staticwebassets\wiproTeste.StaticWebAssets.Manifest.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\staticwebassets\wiproTeste.StaticWebAssets.xml
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\scopedcss\bundle\wiproTeste.styles.css
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.RazorTargetAssemblyInfo.cache
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.csproj.CopyComplete
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\ref\wiproTeste.dll
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.pdb
+C:\Users\arthur\Desktop\Nova pasta\wiproTeste\obj\Debug\net5.0\wiproTeste.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.exe
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.deps.json
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.runtimeconfig.json
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\ref\wiproTeste.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\wiproTeste.pdb
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\scopedcss\bundle\wiproTeste.styles.css
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\staticwebassets\wiproTeste.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.csproj.CopyComplete
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\ref\wiproTeste.dll
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.pdb
+C:\Users\Samsung\Desktop\WiproTeste-main\obj\Debug\net5.0\wiproTeste.genruntimeconfig.cache
